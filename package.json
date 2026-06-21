@@ -1,5 +1,5 @@
 {
-  "name": "campuscrave",
+  "name": "TableTop",
   "version": "1.0.0",
   "description": "CampusBite is a multi-shop college canteen app where students order food online, track orders, and collect from counters without waiting in queues while vendors manage inventory and orders.",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VibhuSahu/CampusCrave.git"
+    "url": "git+https://github.com/VibhuSahu/TableTop.git"
   },
   "author": "polarbear",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VibhuSahu/CampusCrave/issues"
+    "url": "https://github.com/VibhuSahu/TableTop/issues"
   },
-  "homepage": "https://github.com/VibhuSahu/CampusCrave#readme",
+  "homepage": "https://github.com/VibhuSahu/TableTop#readme",
   "devDependencies": {
     "nodemon": "^3.1.14",
     "prettier": "^3.8.3"

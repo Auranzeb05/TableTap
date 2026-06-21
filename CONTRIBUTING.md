@@ -1,7 +1,7 @@
 
-# Contributing to CampusCrave Backend
+# Contributing to TableTop Backend
 
-Thank you for contributing to the CampusCrave Backend 🚀
+Thank you for contributing to the TableTop Backend 🚀
 
 This backend powers the multi-vendor college canteen platform where students can order food online and vendors can manage inventory and orders in real time.
 
@@ -20,7 +20,7 @@ Fork the repository to your GitHub account.
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CampusCrave-Backend.git
+git clone https://github.com/your-username/TableTop-Backend.git
 ````
 
 ---
@@ -28,7 +28,7 @@ git clone https://github.com/your-username/CampusCrave-Backend.git
 ## 3. Navigate to Project Directory
 
 ```bash id="sjlwm5"
-cd CampusCrave-Backend
+cd TableTop-Backend
 ```
 
 ---
@@ -196,7 +196,7 @@ Please follow the `CODE_OF_CONDUCT.md` while interacting with the community.
 
 # Thank You ❤️
 
-Thank you for helping improve CampusCrave Backend.
+Thank you for helping improve TableTop Backend.
 Your contributions make the platform better for students and vendors.
 
 

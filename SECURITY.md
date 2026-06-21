@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The following versions of CampusCrave Backend are currently supported with security updates.
+The following versions of TableTop Backend are currently supported with security updates.
 
 | Version | Deployed | Status |
 | ------- | ---------- | ------ |
@@ -15,12 +15,12 @@ The following versions of CampusCrave Backend are currently supported with secur
 
 # Reporting a Vulnerability
 
-If you discover a security vulnerability in CampusCrave Backend, please report it responsibly.
+If you discover a security vulnerability in TableTop Backend, please report it responsibly.
 
 ## How to Report
 
 Please send an email with detailed information about the vulnerability to:
 
 ```text id="zw9d08"
-campuscrave.security@gmail.com
+TableTop.security@gmail.com
 ```
